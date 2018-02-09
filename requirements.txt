@@ -1,0 +1,10 @@
+appdirs
+sphinx
+sphinx_rtd_theme
+sphinxbootstrap4theme
+sphinx_materialdesign_theme
+sphinxcontrib-blockdiag
+sphinxcontrib-actdiag
+sphinxcontrib-nwdiag
+sphinxcontrib-seqdiag
+sphinxcontrib-plantuml
